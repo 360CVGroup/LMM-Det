@@ -51,12 +51,12 @@ For the curation details, please refer to: [[Custom Data](custom_data/custom_dat
 
 ## Preparation
 
-### Step 1: Download the [COCO](https://cocodataset.org/) dataset. You can put COCO into LMM-Det/data or make a soft link using ln -s.
+Step 1: Download the [COCO](https://cocodataset.org/) dataset. You can put COCO into LMM-Det/data or make a soft link using ln -s.
 
-### Step 2: Modify the COCO Path in Lines 4-5 in LMM-Det/scripts/eval/eval_coco_model_w_sft_data.sh
+Step 2: Modify the COCO Path in Lines 4-5 in LMM-Det/scripts/eval/eval_coco_model_w_sft_data.sh
 
 
-### Step 3: Download the model and put it into LMM-Det/checkpoints
+Step 3: Download the model and put it into LMM-Det/checkpoints
 
 
 ## Evaluation
