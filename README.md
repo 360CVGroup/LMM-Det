@@ -7,7 +7,7 @@ This repository is the official implementation of **LMM-Det**,  a simple yet eff
 Jincheng Li*, Chunyu Xie*, Ji Ao, Dawei Leng†, Yuhui Yin (*Equal Contribution, ✝Corresponding Author)
 </br>
 
-## 中文宣传
+## 中文
 [我爱计算机视觉​](https://zhuanlan.zhihu.com/p/1932117466013758166)
 
 [360AI研究院](https://research.360.cn/blog/detail/6876171cb8ed93721b543154)
